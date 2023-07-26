@@ -9,6 +9,7 @@ weight: 100
 
 | Autore | Lezione | Materiale | 
 |---|---|---|
+| *R. Amadini* | Sistemi di supporto alle decisioni | [Making Decisions with AI](/amadini-constraints.pdf), [Programming with Constraints](/amadini-minizinc.pdf), [Brewer example](/amadini-brewer.mzn), [Subset sum example](/amadini-subset-sum.mzn), [Sudoku example](/amadini-sudoku.mzn) |
 | *R. Calegari* | Programmazione Logica e rudimenti di Prolog | [Programmazione logica](/calegari-prolog.pdf), [Explainable and Ethical AI](/calegari-xeai.pdf) |
 | *G. Ciatto* | Intelligent Agents: A Gentle Introduction | [Slides](/ciatto.pdf) |
 | *M. Ferrara* | Deep Learning | [Slides](/ferrara.pdf) |
