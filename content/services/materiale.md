@@ -14,7 +14,7 @@ weight: 100
 | *G. Ciatto* | Intelligent Agents: A Gentle Introduction | [Slides](/ciatto.pdf) |
 | *M. Ferrara* | Deep Learning | [Slides](/ferrara.pdf) |
 | *R. Girau* | Rudimenti di programmazione Python | [Slides](/girau.pdf) |
-| *E. Piccolomini* | Matematica per l'intelligenza artificiale | [Slides](/piccolomini.pdf) |
+| *E. Loli Piccolomini* | Matematica per l'intelligenza artificiale | [Slides](/piccolomini.pdf) |
 | *S. Salti* | Computer Vision |  [Slides](/salti.pdf) |
 | *P. Torroni* | Natural Language Processing | [Slides](/torroni.pdf) |
 | *S.P. Zingaro* | Introduzione al Machine Learning e principali algoritmi di apprendimento supervisionato e non | [Slides](/zingaro.pdf), [Esercizi](https://github.com/lozingaro/asai-er-ml) |
