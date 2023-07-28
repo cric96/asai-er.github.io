@@ -10,6 +10,7 @@ weight: 100
 | Autore | Lezione | Materiale | 
 |---|---|---|
 | *R. Amadini* | Sistemi di supporto alle decisioni | [Making Decisions with AI](/amadini-constraints.pdf), [Programming with Constraints](/amadini-minizinc.pdf), [Brewer example](/amadini-brewer.mzn), [Subset sum example](/amadini-subset-sum.mzn), [Sudoku example](/amadini-sudoku.mzn) |
+| *G. Aguzzi* | Reinforcement Learning | [Slides](/aguzzi.pdf), [Jupyter Notebook](https://github.com/cric96/intro-reinforcement-learning-python), [Seminar MARL](/aguzzi-intro-marl) |
 | *R. Calegari* | Programmazione Logica e rudimenti di Prolog | [Programmazione logica](/calegari-prolog.pdf), [Explainable and Ethical AI](/calegari-xeai.pdf) |
 | *G. Ciatto* | Agenti Intelligenti | [Slides](/ciatto.pdf) |
 | *M. Ferrara* | Deep Learning | [Slides](/ferrara.pdf) |
